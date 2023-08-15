@@ -1,1 +1,1 @@
-# NXTECH-task1music-player
+Simple music player created using HTML,CSS,JS
